@@ -1,0 +1,19 @@
+/* Ensure the sections have a background image and full height */
+.parallax {
+    position: relative;
+    height: 100vh;
+    background-image: url('path-to-image.jpg');
+    background-size: cover;
+    background-attachment: fixed; /* Optional: helps with the effect */
+    background-position: center;
+}
+
+/* Add content styling */
+.parallax .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
