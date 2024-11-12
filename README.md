@@ -1,6 +1,5 @@
-# 3D Prallaz
-
-Welcome to the **3D Prallaz** repository! This project aims to provide a dynamic and immersive 3D experience that integrates with various technologies and platforms. Here, you will find the source code, assets, and documentation to get started with this project.
+# 3D Prallax
+Welcome to the **3D Prallax** repository! This project aims to provide a dynamic and immersive 3D experience that integrates with various technologies and platforms. Here, you will find the source code, assets, and documentation to get started with this project.
 
 ## Features
 
